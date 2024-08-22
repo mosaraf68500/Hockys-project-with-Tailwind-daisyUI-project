@@ -1,0 +1,54 @@
+.junior-program{
+    background-image:
+                linear-gradient(45deg,
+                    rgba(0, 0, 0, 0.75),
+                    rgba(0, 0, 0, 0.2)), 
+                      url('./Images/2.png');
+                      background-size: cover;
+                      background-position: center;
+                      background-repeat: no-repeat;
+}
+
+
+
+.Teenager-Program{
+    background-image:
+                linear-gradient(45deg,
+                    rgba(0, 0, 0, 0.75),
+                    rgba(0, 0, 0, 0.2)), 
+                      url('./Images/3.png');
+                      background-size: cover;
+                      background-position: center;
+                      background-repeat: no-repeat;
+}
+
+
+.Professional-Program{
+    background-image:
+                linear-gradient(45deg,
+                    rgba(0, 0, 0, 0.75),
+                    rgba(0, 0, 0, 0.2)), 
+                      url('./Images/4.png');
+                      background-size: cover;
+                      background-position: center;
+                      background-repeat: no-repeat;
+}
+
+
+/*  <div class="border flex gap-10 p-4 rounded-lg">
+            <!-- image -->
+             <div><img src="./Images/5.png" alt=""></div>
+
+             <!-- text -->
+              <div class="main section">
+                <!-- first line -->
+                 <div class="flex justity-center items-center gap-6">
+                   
+
+                    
+                    
+                 </div>
+
+              </div>
+          </div>
+ */
